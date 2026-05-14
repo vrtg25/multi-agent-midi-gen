@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Caches
+.cache/
+
+# Environment
+.env
+
+# Generated outputs
+outputs/
+
+
+
+# Claude Code local settings (may contain secrets)
+.claude
+
+CLAUDE.md
+
+results
+
+improvement.txt
