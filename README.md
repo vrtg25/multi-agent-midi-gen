@@ -5,6 +5,7 @@ A multi-agent collaborative MIDI music composition pipeline.
 Input a text description, get a MIDI file rendered to WAV audio.
 
 ## Setup
+LINUX
 
 ```bash
 1. System dependencies
