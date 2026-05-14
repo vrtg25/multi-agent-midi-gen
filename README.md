@@ -1,4 +1,5 @@
 # Multi-Agent-Midi-Gen
+A learning project exploring multi-agent orchestration with music generation.
 
 A multi-agent collaborative MIDI music composition pipeline.
 
