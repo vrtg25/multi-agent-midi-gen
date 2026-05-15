@@ -28,6 +28,9 @@ uv run python main.py generate "YOUR DESCRIPTION"
 # Compose only, skip audio rendering
 uv run python main.py chat-only "YOUR DESCRIPTION"
 
+# Set review iterations (default: 1)
+uv run python main.py generate "YOUR DESCRIPTION" --iterations 3
+
 # Test audio pipeline
 uv run python main.py test-bridge
 ```
