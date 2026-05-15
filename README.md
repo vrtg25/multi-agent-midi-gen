@@ -3,7 +3,7 @@ A learning project exploring multi-agent orchestration with music generation.
 
 A multi-agent collaborative MIDI music composition pipeline.
 
-Input a text description, get a MIDI file rendered to WAV audio.
+Input a text description, get an 8-bar MIDI composition rendered to WAV audio.
 
 ## Setup
 LINUX
