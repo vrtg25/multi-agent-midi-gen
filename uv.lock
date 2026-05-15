@@ -1071,7 +1071,7 @@ wheels = [
 ]
 
 [[package]]
-name = "multi-agent-music-gen"
+name = "multi-agent-midi-gen"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
